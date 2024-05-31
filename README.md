@@ -47,4 +47,7 @@ print(get_random_secret_key())
 exit()
 ```
 
+** This APP is for Education and Practise Purpose Only **
+
+![RT_chatDemo](https://github.com/OvinCode/rt-chat-webapp/assets/86512052/c9c959f7-ed2a-47b1-a5e6-9db0c54f4dd8)
 
